@@ -1,0 +1,48 @@
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+*.orig
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+/tmp/
+
+# Local configuration
+.env
+config.local
+*.local
+
+# Distribution archives
+*.tar.gz
+*.zip
+*.deb
+*.rpm
+
+# Test output
+test_output/
+test_results/
+
+# Development files
+.development/
+dev_notes.md
